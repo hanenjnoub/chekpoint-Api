@@ -1,0 +1,1 @@
+export const Get_Medcontact="GET_CONTACTS"
